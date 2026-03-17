@@ -81,8 +81,8 @@ I build hands-on cybersecurity labs to understand real-world attacks and how to 
 
 ## 📫 Connect
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/pugazhendi-pugal-b18b443a4
-* 💻 GitHub: https://github.com/Pugazhendii22
+[![Email](https://img.shields.io/badge/Email-ppugazhendi4%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:ppugazhendi4@gmail.com)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pugazhendi%20Pugal-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/pugazhendi-pugal-b18b443a4)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Pugazhendii22-black?style=for-the-badge\&logo=github)](https://github.com/Pugazhendii22)
